@@ -103,21 +103,9 @@
 </div>
 
 ###
+<h3 align="left"> 💡 Code like a poet. Think like a scientist.💡 </h3>
 
-<h4 align="left">Connect with me</h4>
+### Happy coding! 🚀
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/manbachauhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/manbachauhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="chauhanmanba@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
-###
